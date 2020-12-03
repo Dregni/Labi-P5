@@ -1,0 +1,26 @@
+M25 25
+--------xxx--x-xx--x--xx-
+------x--x-------xxx-----
+xx----x----x---x------xxx
+x--xxxx-x--xxx-x-xx--xx--
+-------x-----xx-x-x-----x
+x----x---x----x--xx--x---
+------xx-----x-----x----x
+--xx-------x-----xx------
+---xx--xxx--x---x---x-x--
+xxx----x---xx------xx--x-
+-x--------xxx-x---x---x--
+x-x--x-xxx-x-----xxx-----
+x----o--x--x----xxxx-----
+--------x------x-x----x-x
+x----xxxx-x--xxx-x-------
+----x-x---xx--xxx----x--x
+-xxx--x-xx---xx-xxx---xx-
+x--x--x--------x------x--
+x------x--xxx-x-x-x-x--xx
+------xx-f-x--------x----
+x---------xx---xx----x-x-
+--x-xxxx---xx-x-x----x---
+-xx----x-xx--x-x--xxx----
+xx----xx----x-xxx-xx-x-x-
+x-----x---xxxx-xx-x-----x
